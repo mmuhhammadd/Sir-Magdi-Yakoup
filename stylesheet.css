@@ -272,8 +272,7 @@ a:hover {
     margin-bottom: 20px;
   }
   #prof {
-    height: 150px;
-    width: 150px;
+    display:none;
   }
 }
 /*# sourceMappingURL=stylesheet.css.map */
